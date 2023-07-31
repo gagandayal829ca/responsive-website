@@ -7,5 +7,6 @@
   ```
 - Website sample below:
 
-  ![alt text](https://github.com/gagandayal829ca/responsive-website/blob/master/img/Sample.png?raw=true)
+https://github.com/gagandayal829ca/responsive-website/blob/master/img/Sample.PNG
+  ![alt text](https://github.com/gagandayal829ca/responsive-website/blob/master/img/Sample.PNG?raw=true)
 
