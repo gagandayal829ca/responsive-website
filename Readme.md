@@ -6,6 +6,6 @@
   https://clinquant-dieffenbachia-4e291a.netlify.app/
   ```
 - Website sample below:
-  ```
+
   ![alt text](https://github.com/gagandayal829ca/responsive-website/blob/master/img/zoro.png?raw=true)
-  ```
+
